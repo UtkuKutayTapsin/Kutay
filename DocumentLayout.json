@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assignments.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignments.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\game.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\game.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\apple.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\apple.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\snake.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\snake.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\css\\stylesheet.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\stylesheet.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\settings.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\settings.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apple.js",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\apple.js",
+              "RelativeDocumentMoniker": "assets\\js\\apple.js",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\apple.js",
+              "RelativeToolTip": "assets\\js\\apple.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:58:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stylesheet.css",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\css\\stylesheet.css",
+              "RelativeDocumentMoniker": "assets\\css\\stylesheet.css",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\css\\stylesheet.css",
+              "RelativeToolTip": "assets\\css\\stylesheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T18:58:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "snake.js",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\snake.js",
+              "RelativeDocumentMoniker": "assets\\js\\snake.js",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\snake.js",
+              "RelativeToolTip": "assets\\js\\snake.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:46:47.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "settings.js",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\settings.js",
+              "RelativeDocumentMoniker": "assets\\js\\settings.js",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\settings.js",
+              "RelativeToolTip": "assets\\js\\settings.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-12T18:33:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\game.js",
+              "RelativeDocumentMoniker": "assets\\js\\game.js",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assets\\js\\game.js",
+              "RelativeToolTip": "assets\\js\\game.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-11T13:10:24.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignments.txt",
+              "DocumentMoniker": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assignments.txt",
+              "RelativeDocumentMoniker": "assignments.txt",
+              "ToolTip": "C:\\Users\\utkuk\\OneDrive\\Masa\u00FCst\u00FC\\SnakeSKC-master\\assignments.txt",
+              "RelativeToolTip": "assignments.txt",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T13:08:29.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

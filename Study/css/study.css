@@ -83,7 +83,7 @@ nav a {
    margin-bottom: 10px;
    border-color: aquamarine;
    border-style: groove;
-   border-width: 2;
+   border-width: 0cap;
    border-radius: 5px;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -109,54 +109,32 @@ footer {
    text-align: center;
 }
 
-@media (max-width: 768px) {
-   body {
-       font-size: 16px;
-   }
+#cookies-message {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   background-color: rgba(0, 0, 0, 0.7);
+   color: white;
+   text-align: justify;
+   padding: 10px;
+   z-index: 9999; 
+}
 
-   header {
-       padding: 10px;
-   }
-
-   .hero {
-       height: 50vh;
-   }
-
-   .feature {
-       padding: 10px;
-   }
-
-   .contact form {
+@media screen and (max-width: 768px) {
+   .content {
        flex-direction: column;
    }
 
-   .footer {
-       padding: 5px;
+   header, footer {
+       padding: 0.5rem;
    }
 }
 
-@media (min-width: 769px) {
-   body {
-       font-size: 18px;
-   }
-
-   header {
-       padding: 20px;
-   }
-
-   .hero {
-       height: 100vh;
-   }
-
-   .feature {
-       padding: 20px;
-   }
-
-   .contact form {
-       flex-direction: row;
-   }
-
-   .footer {
-       padding: 10px;
+@media screen and (min-width: 769px) {
+   .content {
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       gap: 20px;
    }
 }
